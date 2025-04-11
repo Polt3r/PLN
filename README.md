@@ -14,6 +14,8 @@ Aula 02 - [Python e Bibliotecas](https://colab.research.google.com/drive/136Zq6b
 Aula 03 - [Processamento de Texto](https://colab.research.google.com/drive/14OEINZeTo6UGuQQ7iA18ofY0KgCeKX1q)<br>
 Aula 04 - [Extraçao de Caracteristicas](https://colab.research.google.com/drive/1vi5jWXgvsiZ7H0HSPIUlX4EPnfuQE3jr)<br>
 Aula 05 - [Análise Sintática](https://colab.research.google.com/drive/146XwZJHEdwncLNd1NYjdVzONupCfC9lb)<br>
+Aula 06 - [Interpretação Semântica e Gramáticas](https://colab.research.google.com/drive/1nUYr6GOGN_cngZ1-voCYm--rjXWQ4ZZW#scrollTo=22VgBm0fLLJG)<br>
+Aula 07 - [Descoberta de Conhecimento em Textos (Knowledge Discovery in Texts)](https://colab.research.google.com/drive/1n0YAQzo2p3ONXzkv5lmFxVhYG4HtVn4W#scrollTo=7Sti2xYGMXpA)<br>
 Projeto 01 - [Analise Quantitativa de Corpus](https://colab.research.google.com/drive/1gHkNs6NhAFFusBxhiaQGaeYpmP3m1Ya2)<br>
 
 
