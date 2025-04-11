@@ -9,13 +9,12 @@ Este repositório tem como finalidade organizar os estudos e materiais relaciona
 
 ## 📁 Estrutura do Repositório
 
-Materiais
-Aula 01 - Introdução
-Aula 02 - 
-Aula 03 - 
-Aula 04 - 
-Aula 05 - 
-Aula 06 - 
+Materiais </br>
+Aula 02 - [Python e Bibliotecas](https://colab.research.google.com/drive/136Zq6bAndSLlJN_GPKN58pSPxpMhnnj3)<br>
+Aula 03 - [Processamento de Texto](https://colab.research.google.com/drive/14OEINZeTo6UGuQQ7iA18ofY0KgCeKX1q)<br>
+Aula 04 - [Extraçao de Caracteristicas](https://colab.research.google.com/drive/1vi5jWXgvsiZ7H0HSPIUlX4EPnfuQE3jr)<br>
+Aula 05 - [Análise Sintática](https://colab.research.google.com/drive/146XwZJHEdwncLNd1NYjdVzONupCfC9lb)<br>
+Projeto 01 - [Analise Quantitativa de Corpus](https://colab.research.google.com/drive/1gHkNs6NhAFFusBxhiaQGaeYpmP3m1Ya2)<br>
 
 
 ## 🔍 Conteúdos Abordados
